@@ -14,10 +14,10 @@
 
 <div align="center">
   <p style="max-width: 800px; margin: 0 auto; text-align: left;">
-    - 🎓 Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong> e Técnico em <strong>Agrimensura</strong> pela <strong>Escola de Sargentos de Logística do Exército Brasileiro</strong>.<br>
-    - 💼 Há 8 anos atuo na área de <strong>Geoinformação do Exército Brasileiro</strong>, desenvolvendo soluções web, automações e aplicativos em Python para otimizar processos geoespaciais.<br>
-    - 🚀 Fora do expediente, dedico-me a projetos próprios e à minha empresa, a <strong>Vibranium Digital</strong>, onde ofereço serviços de desenvolvimento full stack.<br>
-    - 🛠️ Também mantenho o <strong>ISTools</strong>, um projeto que reúne ferramentas voltadas para geoinformação.
+    - 🎓 Graduado em Análise e Desenvolvimento de Sistemas e Técnico em Agrimensura. Possuo sólida formação técnica voltada para soluções de tecnologia e geoinformação.
+    - 🛰️ Especialista com 8 anos de experiência no setor de Geoinformação, desenvolvendo soluções de automação, aplicações web e ferramentas em Python para otimização de processos geoespaciais complexos.
+    - 🚀 Entusiasta de tecnologia e fundador da Vibranium Digital, uma iniciativa que busca entregar soluções de alta performance em desenvolvimento full stack.
+    - 🛠️ Criador e mantenedor do ISTools, um projeto open-source que reúne ferramentas essenciais para profissionais de geoinformação.
   </p>
 </div>
 
