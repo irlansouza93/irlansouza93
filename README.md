@@ -1,5 +1,5 @@
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app""")/>>
+  <img width=100% src="https://capsule-render.vercel.app"/>
   <br>
   <a href="https://git.io">
     <img align="center" src="https://readme-typing-svg.herokuapp.com;">
@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <div style="max-width: 850px; margin: 0 auto;">
+  <div style="max-width: 850px; margin: 0 auto; text-align: center;">
     <p style="margin-bottom: 15px;">
       🎓 Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong> e Técnico em <strong>Agrimensura</strong>. Possuo sólida formação técnica voltada para soluções de tecnologia e geoinformação.
     </p>
@@ -24,7 +24,7 @@
       🚀 Entusiasta de tecnologia e idealizador da <strong>Vibranium Digital</strong>, uma iniciativa focada em arquitetura de sistemas e soluções de alta performance em desenvolvimento full stack.
     </p>
     <p style="margin-bottom: 15px;">
-      🛠️ Criador e mantenedor do <strong>ISTools</strong>, um projeto que reúne ferramentas voltadas para a comunidade de geoinformação.
+      🛠️ Criador e mantenedor do <strong>ISTools</strong>, um projeto que reúne ferramentas essenciais voltadas para a comunidade de geoinformação.
     </p>
   </div>
 </div>
@@ -112,7 +112,6 @@
           <br />Selenium
         </td>
         <td align="center">
-          <!-- célula vazia -->
         </td>
       </tr>
     </tbody>
@@ -128,23 +127,23 @@
 <div align="center">
   <p style="max-width: 800px; margin: 0 auto; text-align: left;">
     <strong><a href="https://vibraniumdigital-6f77d.web.app">Vibranium Digital</a></strong> 💼<br />
-    Iniciativa focada em arquitetura de software e desenvolvimento full stack, criando soluções inteligentes, sistemas de gestão e automações sob medida.
+    Iniciativa focada em soluções sob medida, sistemas de gestão e automações baseadas em arquitetura de software moderna.
   </p>
   <p style="max-width: 800px; margin: 0 auto; text-align: left;">
     <strong><a href="https://irlansouza93.github.io">ISTools</a></strong> 🗺️<br />
-    Projeto focado em ferramentas práticas para geoinformação. Integra conhecimentos técnicos de agrimensura com práticas modernas de desenvolvimento.
+    Projeto focado em ferramentas práticas para geoinformação, integrando conceitos técnicos de agrimensura com desenvolvimento full stack.
   </p>
 </div>
 
 <br>
 
 <div align="center">
-  <h2>📫 Contato Profissional</h2>
+  <h2>📫 Como me encontrar</h2>
 </div>
 
 <div align="center">
   <p>
-    🌐 Site: <a href="https://vibraniumdigital-6f77d.web.app">vibraniumdigital.com</a><br />
+    🌐 Portfólio: <a href="https://vibraniumdigital-6f77d.web.app">vibraniumdigital.com</a><br />
     💼 LinkedIn: <a href="https://linkedin.com">://linkedin.com</a><br />
     📧 E-mail: <a href="mailto:irlansouza193@hotmail.com">irlansouza193@hotmail.com</a>
   </p>
@@ -153,11 +152,11 @@
 <br>
 
 <div align="center">
-  ⭐️ <strong>Sinta-se à vontade para explorar meus repositórios e trocar experiências sobre tecnologia!</strong>
+  ⭐️ <strong>Fique à vontade para explorar meus repositórios e entrar em contato!</strong>
 </div>
 
 <br>
 
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app""")/>>
+  <img width=100% src="https://capsule-render.vercel.app"/>
 </div>
