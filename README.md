@@ -1,10 +1,8 @@
-
-
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05DBF2&height=120&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=05DBF2&height=120&section=header" alt="Banner ciano" />
   <br>
   <a href="https://git.io/typing-svg">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com/?color=05DBF2&size=40&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Irlan+Souza;Desenvolvedor+Full+Stack;Geoinformação+e+Automação;">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?color=05DBF2&size=40&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Irlan+Souza;Desenvolvedor+Full+Stack;Geoinformação+e+Automação;IA+aplicada+ao+desenvolvimento" alt="Apresentação de Irlan Souza" />
   </a>
 </div>
 
@@ -16,17 +14,17 @@
 
 <div align="center">
   <p style="max-width: 800px; margin: 0 auto; text-align: left;">
-    🎓 Graduado em Análise e Desenvolvimento de Sistemas e Técnico em Agrimensura. Possuo sólida formação técnica voltada para soluções de tecnologia e geoinformação.<br>
-    🛰️ Especialista com 8 anos de experiência no setor de Geoinformação, desenvolvendo soluções de automação, aplicações web e ferramentas em Python para otimização de processos geoespaciais complexos.<br>
-    🚀 Entusiasta de tecnologia e fundador da <strong>Vibranium Digital</strong>, uma iniciativa que busca entregar soluções de alta performance em desenvolvimento full stack.<br>
-    🛠️ Criador e mantenedor do <strong>ISTools</strong>, um projeto open-source que reúne ferramentas essenciais para profissionais de geoinformação.
+    🎓 Graduando em <strong>Engenharia de Software</strong>. Possuo formação em <strong>Análise e Desenvolvimento de Sistemas</strong> e Técnico em Agrimensura.<br>
+    🛰️ Atuo há 8 anos no setor de Geoinformação, alinhando conhecimentos técnicos ao desenvolvimento de scripts e ferramentas, aplicações web e soluções de automação de processos geoespaciais.<br>
+    🚀 Fundador da <strong>Vibranium Digital</strong>, iniciativa voltada ao desenvolvimento de aplicações web, sistemas de gestão e automações sob medida.<br>
+    🛠️ Criador e mantenedor do <strong>ISTools</strong>, projeto open-source com ferramentas para apoiar o trabalho de profissionais de geoinformação.
   </p>
 </div>
 
 <br>
 
 <div align="center">
-  <h2>🔭 Languages and Tools</h2>
+  <h2>💻 Tecnologias e ferramentas</h2>
 </div>
 
 <div align="center">
@@ -98,7 +96,7 @@
           <br />Docker
         </td>
         <td align="center">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Actions" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" alt="GitHub Actions" />
           <br />GitHub Actions
         </td>
         <td align="center">
@@ -106,11 +104,28 @@
           <br />Selenium
         </td>
         <td align="center">
-          <!-- célula vazia -->
+          <!-- Espaço reservado para manter a grade alinhada. -->
         </td>
       </tr>
     </tbody>
   </table>
+</div>
+
+<br>
+
+<div align="center">
+  <h2>🤖 Inteligência artificial e automação</h2>
+</div>
+
+<div align="center">
+  <p style="max-width: 800px; margin: 0 auto; text-align: left;">
+    Sou entusiasta de Inteligência Artificial e continuo estudando como aplicar essas tecnologias para automatizar processos e desenvolver software. A IA já faz parte da minha rotina, auxiliando na exploração de soluções, na implementação de funcionalidades e na evolução dos meus projetos.<br><br>
+    <strong>Ferramentas que utilizo no meu fluxo de trabalho:</strong>
+  </p>
+  <br>
+  <img src="https://img.shields.io/badge/Claude_Code-252525?style=flat-square&logo=claude&logoColor=D97757" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
 </div>
 
 <br>
@@ -121,15 +136,17 @@
 
 <div align="center">
   <p style="max-width: 800px; margin: 0 auto; text-align: left;">
-    <strong><a href="https://vibraniumdigital-6f77d.web.app/">Vibranium Digital</a></strong> 💼<br />
-    Meu negócio de desenvolvimento full stack. Atendo clientes de diversos segmentos, criando soluções web sob medida, sistemas de gestão e automações.
+    <strong><a href="https://vibraniumdigital.com.br/">Vibranium Digital</a></strong> 💼<br />
+    Meu negócio de desenvolvimento de software, com foco em aplicações web, sistemas de gestão e automações sob medida.
   </p>
+  <br />
   <p style="max-width: 800px; margin: 0 auto; text-align: left;">
     <strong><a href="https://irlansouza93.github.io/istools-website/">ISTools</a></strong> 🗺️<br />
-    Projeto pessoal focado em ferramentas práticas para profissionais de geoinformação. Integra conhecimentos de agrimensura com desenvolvimento moderno.
+    Projeto open-source com ferramentas práticas para profissionais de geoinformação, combinando conhecimentos de Agrimensura, processamento geoespacial e desenvolvimento de software.
   </p>
   <p style="max-width: 800px; margin: 0 auto; text-align: left;">
-    <em>(Se os sites ainda não estiverem no ar, mantenha apenas o nome dos projetos e indique que estão em desenvolvimento.)</em>
+    <strong><a href="https://irlansouza93.github.io/bb84-quantum-lab/">bb84-quantum-lab</a></strong> 🗺️<br />
+    Projeto em parceria com a UVPR para o curso princípios de tecnologia quântica, onde se pode simular a experiência das novas tecnologias.
   </p>
 </div>
 
@@ -141,9 +158,10 @@
 
 <div align="center">
   <p>
-    🌐 Site pessoal / Portfólio: <a href="https://vibraniumdigital-6f77d.web.app/">seulink.com</a><br />
-    💼 LinkedIn: <a href="https://linkedin.com/in/irlansouza">linkedin.com/in/irlansouza</a><br />
-    📧 E-mail: <a href="irlansouza193@hotmail.com">seuemail@email.com</a>
+    🌐 Site / Portfólio: <a href="https://myportifolio-irlan.web.app/">Irlan Souza</a><br />
+    💼 LinkedIn: <a href="https://linkedin.com/in/irlansouza93">linkedin.com/in/irlansouza93</a><br />
+    📧 E-mail: <a href="mailto:irlansouza193@gmail.com">irlansouza193@gmail.com</a><br />
+    💬 WhatsApp: <a href="https://wa.me" target="_blank">+55 81 99950-0467 (Fale comigo!)</a>
   </p>
 </div>
 
@@ -156,5 +174,5 @@
 <br>
 
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05DBF2&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=05DBF2&height=120&section=footer" alt="Rodapé ciano" />
 </div>
